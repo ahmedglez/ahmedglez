@@ -28,10 +28,10 @@ Property | Data
 
 
 
-![Profile views](https://gpvc.arturio.dev/BEPb)
+![Profile views](https://gpvc.arturio.dev/ahmedglez)
 
 <p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedglez" alt="visitors"/>
 </p>
 
 
