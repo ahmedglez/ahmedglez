@@ -12,7 +12,7 @@ Property | Data
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedglez&show_icons=true&theme=radical&include_all_commits=true" width=50%></img><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedglez&theme=radical&layout=compact" width=50%></img>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedglez&show_icons=true&theme=radical&include_all_commits=true" width=70%></img><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedglez&theme=radical&layout=compact" width=70%></img>
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedglez" width=70%></img>
@@ -20,7 +20,7 @@ Property | Data
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/ahmed_glez" target="blank"><img align="center" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://twitter.com/ahmed_glez" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://linkedin.com/in/ahmedglez" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 <a href="mailto:ahmedglez@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
