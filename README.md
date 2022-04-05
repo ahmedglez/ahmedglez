@@ -12,10 +12,10 @@ Property | Data
 
 
 
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=ahmedglez&show_icons=true&theme=radical&include_all_commits=true)
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedglez&theme=radical&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedglez&show_icons=true&theme=radical&include_all_commits=true" width=50%></img><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedglez&theme=radical&layout=compact" width=50%></img>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedglez"></img>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedglez" width=70%></img>
 
 
 **📫 How to Reach me:**
