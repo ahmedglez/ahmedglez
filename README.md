@@ -10,6 +10,23 @@ Property | Data
 **OS**  | <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475"><img src="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu" style="max-width: 100%;"></a> 
 
 
+##
+**Licenses and certifications**
+
+ Curso de React.js: Manejo Profesional del Estado | https://platzi.com/p/ahmedglez/curso/2597-course/diploma/detalle/
+ 
+ Curso de React.js: Patrones de Render y Composición | https://platzi.com/p/ahmedglez/curso/2457-course/diploma/detalle/
+ 
+ Curso de Webpack | https://platzi.com/p/ahmedglez/curso/2242-course/diploma/detalle/
+ 
+ Curso de Bootstrap 4 | https://platzi.com/p/ahmedglez/curso/1331-course/diploma/detalle/
+ 
+ Curso de Gestión de Dependencias y Paquetes con NPM | https://platzi.com/p/ahmedglez/curso/1763-course/diploma/detalle/
+ 
+ **see more at**: https://www.linkedin.com/in/ahmedglez/details/certifications/
+ 
+
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahmedglez&show_icons=true&theme=radical&include_all_commits=true" width=70%></img><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedglez&theme=radical&layout=compact" width=70%></img>
