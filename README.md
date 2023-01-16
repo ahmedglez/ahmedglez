@@ -17,18 +17,7 @@ Property | Data
 ##
 **Licenses and certifications**
 
- Curso de React.js: Manejo Profesional del Estado | https://platzi.com/p/ahmedglez/curso/2597-course/diploma/detalle/
- 
- Curso de React.js: Patrones de Render y Composición | https://platzi.com/p/ahmedglez/curso/2457-course/diploma/detalle/
- 
- Curso de Webpack | https://platzi.com/p/ahmedglez/curso/2242-course/diploma/detalle/
- 
- Curso Profesional de React.js y Redux | https://platzi.com/p/ahmedglez/curso/3219-react-redux-profesional/diploma/detalle/
- 
- Curso de Gestión de Dependencias y Paquetes con NPM | https://platzi.com/p/ahmedglez/curso/1763-course/diploma/detalle/
- 
- **see more at**: https://www.linkedin.com/in/ahmedglez/details/certifications/
- 
+ https://www.linkedin.com/in/ahmedglez/details/certifications/
 
 
 
